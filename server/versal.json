@@ -1,0 +1,16 @@
+{
+    "version" : 2,
+    "name" : "Shop Smart E-Commerce App",
+    "builds" : [
+        {
+            "src" : "./index.js",
+            "use" : "@vercel/node"
+        }
+    ],
+    "routes" : [
+        {
+            "src" : "/(.*)",
+            "dest" : "/"
+        }
+    ]
+}     
