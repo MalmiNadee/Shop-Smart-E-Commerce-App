@@ -1,0 +1,1 @@
+# Shop Smart E-Commerce App (MERN Full Stack)
